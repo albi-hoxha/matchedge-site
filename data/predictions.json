@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "match_date": "2026-11-25",
+    "kick_off_local": "21:00",
+    "timezone": "Europe/Tirane",
+    "competition": "UEFA Champions League",
+    "home_team": "Paris Saint-Germain",
+    "away_team": "AS Roma",
+    "market": "1X2",
+    "selection": "1",
+    "selected_team": "Paris Saint-Germain",
+    "decimal_odds": 1.49,
+    "model_probability": 0.7,
+    "ev_pct": 4.3,
+    "threshold_exception": 1,
+    "status": "lost",
+    "final_home_goals": 2,
+    "final_away_goals": 2,
+    "net_units": -1.0,
+    "evidence_url": "https://www.psg.fr/en/matches/mens-football/20262027/paris-vs-roma-2026-11-25",
+    "saved_at_local": "2026-11-25T10:16:23+01:00"
+  }
+]

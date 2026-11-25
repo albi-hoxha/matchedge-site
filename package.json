@@ -1,0 +1,14 @@
+{
+  "name": "matchedge-football-predictions",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Transparent, free 1X2 football prediction archive — static, SEO-first and dependency-free.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/preview.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

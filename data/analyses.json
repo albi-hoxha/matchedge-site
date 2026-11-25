@@ -1,0 +1,49 @@
+{
+  "1": {
+    "headline": "Why Paris Saint-Germain are favoured against Roma",
+    "summary": "Paris enter this match with four wins from four Champions League games and 20 goals scored. Roma are capable of scoring, but their European results have been less convincing. The home setting and Paris' attacking form give the hosts the edge in our pre-match assessment.",
+    "factors": [
+      {
+        "title": "Stronger Champions League form",
+        "body": "Paris won their first four league-phase matches, scoring 20 goals in the process. That includes a 4–2 win over Barcelona and a 6–0 away victory against Villarreal. The consistency of those results is the strongest argument for the home side."
+      },
+      {
+        "title": "The Parc des Princes factor",
+        "body": "PSG host the match in Paris, where they have already beaten Barcelona 4–2 in this Champions League campaign. Playing at home adds to the case for PSG, although the venue alone does not make a win certain."
+      },
+      {
+        "title": "Roma have been more vulnerable in Europe",
+        "body": "Roma came into Matchday 5 with four points from four games. Their 3–4 defeat to Real Madrid and 2–3 loss to Manchester United show that they can compete going forward but have also conceded heavily against high-quality opposition."
+      },
+      {
+        "title": "Price versus estimated probability",
+        "body": "The recorded model estimate is 70% for a PSG win. Odds of 1.49 imply a break-even win probability of about 67.1%, leaving a theoretical expected value of +4.3%. This is a narrow modelled edge, not a guarantee, and the original quote has not been independently timestamp-verified."
+      }
+    ],
+    "risks": [
+      "PSG were without injured attackers Désiré Doué and Khvicha Kvaratskhelia, reducing their available options in wide areas.",
+      "Roma arrived in good domestic form. Donyell Malen was a major attacking threat, and Roma had just beaten Parma 5–1; their attack cannot be dismissed.",
+      "The model's 70% is an estimate rather than a calibrated or independently validated probability. A small estimation error could remove the apparent price advantage."
+    ],
+    "verdict": "PSG are the selection because their European attacking output, four-match winning run and home advantage outweigh Roma's less secure European results in the pre-match comparison. The visitors remain dangerous, especially on the counterattack and through Malen, so a draw or Roma win is a meaningful risk.",
+    "sources": [
+      {
+        "label": "UEFA — PSG vs Roma pre-match facts (20 Nov 2026)",
+        "url": "https://www.uefa.com/uefachampionsleague/news/02ab-221ddbf5e055-43d3f0086452-1000--champions-league-matchday-5-paris-saint-germain-vs-roma-/"
+      },
+      {
+        "label": "PSG — Paris vs Roma pre-match preview",
+        "url": "https://www.psg.fr/en/content/paris-saint-germain-as-roma-preview-uefa-champions-league-20262027"
+      },
+      {
+        "label": "UEFA — Matchday 5 team news (24 Nov 2026)",
+        "url": "https://www.uefa.com/uefachampionsleague/news/02ab-2223c67db015-c4f7874e074e-1000/"
+      },
+      {
+        "label": "PSG — Key numbers before Paris vs Roma",
+        "url": "https://www.psg.fr/en/content/the-key-numbers-paris-as-roma-psg-ucl-2026-2027"
+      }
+    ],
+    "editorial_note": "Pre-match rationale reconstructed after kickoff from sources available before the match; not an independently timestamped pre-kickoff article. Original recorded pick, odds and estimated probability are unchanged. PSG and Roma drew 2–2; the PSG-win selection lost."
+  }
+}
