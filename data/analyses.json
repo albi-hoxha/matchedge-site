@@ -45,5 +45,177 @@
       }
     ],
     "editorial_note": "Pre-match rationale reconstructed after kickoff from sources available before the match; not an independently timestamped pre-kickoff article. Original recorded pick, odds and estimated probability are unchanged. PSG and Roma drew 2–2; the PSG-win selection lost."
+  },
+  "2": {
+    "headline": "Domestic attacking strength after a difficult European fixture",
+    "summary": "PSV's domestic performances provide the basis for our home-win hypothesis, despite a heavy European defeat. The key question is whether their league-level attacking advantage persists against a different class of opponent.",
+    "factors": [
+      {
+        "title": "Opponent-adjusted form",
+        "body": "PSV lost 1–5 away to Real Madrid in midweek. That result must be interpreted separately from domestic form: PSV won their three preceding league matches, scoring at least four times in each."
+      },
+      {
+        "title": "Chance creation",
+        "body": "Our three-match all-competition snapshot recorded 2.18 expected goals per game for PSV versus 0.90 for Go Ahead Eagles. These are descriptive averages, not a calibrated forecast."
+      },
+      {
+        "title": "Home context and opponent output",
+        "body": "PSV return to Eindhoven, while Go Ahead Eagles scored once across their last three league fixtures. This supports the home-win hypothesis without relying on a supposed obligation to bounce back."
+      }
+    ],
+    "risks": [
+      "PSV have multiple reported absences, including Schouten and Pléa; Perišić's availability is uncertain.",
+      "European fatigue and rotation can affect performance. Go Ahead Eagles have attacking quality and have previously won at PSV in the cup.",
+      "Sources disagree on the exact Cambuur score; we use only the consistent fact that PSV scored at least four."
+    ],
+    "verdict": "The home-win outcome is our featured experimental football forecast. It is not a verified value pick and the bounce-back hypothesis remains unvalidated.",
+    "sources": [
+      {
+        "label": "Roundtable — match preview and team news, 28 November",
+        "url": "https://roundtable.io/sports/soccer/eredivisie/psv-eindhoven/news/psv-vs-go-ahead-eagles-match-preview-team-news-line-ups"
+      },
+      {
+        "label": "Statz — PSV match statistics",
+        "url": "https://statz.ai/team/psv"
+      },
+      {
+        "label": "Statz — possession and opponent data",
+        "url": "https://statz.ai/team/psv/ball-possession"
+      }
+    ],
+    "editorial_note": "Experimental Team Watchlist forecast; three-match data snapshot from pre-match research. No calibrated MatchEdge probability, verified odds or expected value is claimed. Official starting lineups were not yet verified. The result will be logged separately."
+  },
+  "3": {
+    "headline": "Wolves' recent attacking output versus Lincoln's difficult run",
+    "summary": "Our away-win hypothesis is based on relative team performance rather than reputation alone. Wolves have been creating substantially more opportunities than Lincoln in the recent sample.",
+    "factors": [
+      {
+        "title": "Recent production",
+        "body": "Across the last three matches in our snapshot, Wolves averaged 26.7 attempts, 6.0 shots on target and 2.74 xG; Lincoln averaged 11.7 attempts, 2.3 on target and 0.86 xG."
+      },
+      {
+        "title": "Territorial pressure",
+        "body": "Wolves averaged 62.3% possession and 8.3 corners, compared with 38.7% and 4.0 for Lincoln. These measures complement chance quality but do not independently guarantee goals."
+      },
+      {
+        "title": "League position and form",
+        "body": "Wolves entered the fixture third on 34 points, while Lincoln were 21st on 15 points after five consecutive defeats."
+      }
+    ],
+    "risks": [
+      "Lincoln's coaching change introduces uncertainty about their tactical approach.",
+      "Wolves are away from home and recent three-game samples can exaggerate differences.",
+      "Reported absences affect both squads; starting lineups were not confirmed at the time of assessment."
+    ],
+    "verdict": "The away-win forecast is an experimental test of the relative-performance hypothesis, not a confirmed price advantage.",
+    "sources": [
+      {
+        "label": "Statz — Wolves statistics",
+        "url": "https://statz.ai/team/wolverhampton-wanderers"
+      },
+      {
+        "label": "Statz — Lincoln statistics",
+        "url": "https://statz.ai/team/lincoln-city"
+      },
+      {
+        "label": "Tu Futbolero — fixture preview and absences",
+        "url": "https://www.tufutbolero.com/en/news/lincoln-wolves-preview-lincoln-21st-on-five-straight-defeats-fdbce9"
+      },
+      {
+        "label": "Lincoln coaching change and preview",
+        "url": "https://news.bet365.com/en-gb/article/football-lincoln-city-wolves-prediction-and-tips/2026112609224084434"
+      }
+    ],
+    "editorial_note": "Experimental Team Watchlist forecast; three-match data snapshot from pre-match research. No calibrated MatchEdge probability, verified odds or expected value is claimed. Official starting lineups were not yet verified. The result will be logged separately."
+  },
+  "4": {
+    "headline": "Leicester's chance creation and the gap between performance and results",
+    "summary": "Leicester's recent underlying attacking figures make their home fixture an interesting test of whether strong performance persists after dropped points.",
+    "factors": [
+      {
+        "title": "Attacking indicators",
+        "body": "Our recent three-match sample recorded 70% possession, 18 attempts, seven shots on target and 2.84 xG per game for Leicester."
+      },
+      {
+        "title": "Results versus performance",
+        "body": "Leicester drew 1–1 at Blackpool after beating Huddersfield 1–0. The Blackpool performance is an example of a positive chance-creation profile without the corresponding three points."
+      },
+      {
+        "title": "Relative form",
+        "body": "Leicester were unbeaten in four league matches; Mansfield had failed to win their previous three league fixtures. Home advantage adds context."
+      }
+    ],
+    "risks": [
+      "Mansfield were only three points behind Leicester with a game in hand.",
+      "Leicester's three-game sample includes a cup fixture against lower-tier opposition, which may inflate the averages.",
+      "Several Mansfield players have recently returned from injury, and Leicester's final lineup is unconfirmed."
+    ],
+    "verdict": "The home-win hypothesis tests whether Leicester can translate sustained chance creation into a result. It is not evidence of a guaranteed rebound or validated financial edge.",
+    "sources": [
+      {
+        "label": "Leicester City — official fixture information",
+        "url": "https://www.lcfc.com/fixtures-results/match-preview?matchid=3924992&tcmuri=3152356"
+      },
+      {
+        "label": "Statz — Leicester statistics",
+        "url": "https://statz.ai/team/leicester-city"
+      },
+      {
+        "label": "Statz — Mansfield statistics",
+        "url": "https://statz.ai/team/mansfield-town"
+      },
+      {
+        "label": "Sports Mole — form and team news",
+        "url": "https://www.sportsmole.co.uk/football/leicester-city/preview/leicester-vs-mansfield-prediction-team-news-lineups_609929.html"
+      }
+    ],
+    "editorial_note": "Experimental Team Watchlist forecast; three-match data snapshot from pre-match research. No calibrated MatchEdge probability, verified odds or expected value is claimed. Official starting lineups were not yet verified. The result will be logged separately."
+  },
+  "5": {
+    "headline": "Atlético's chance quality and season-long performance advantage",
+    "summary": "The away-win hypothesis focuses on the difference in attacking efficiency and underlying team strength, rather than possession alone.",
+    "factors": [
+      {
+        "title": "Chance quality",
+        "body": "Our three-match snapshot gave Atlético 16.3 shots, 7.7 on target and 2.06 xG per game, versus Elche's 11.0 shots, 2.0 on target and 0.93 xG."
+      },
+      {
+        "title": "Possession is not the whole story",
+        "body": "Elche averaged 55.3% possession against Atlético's 51.7%, yet created fewer and lower-quality opportunities in this sample."
+      },
+      {
+        "title": "Season-level strength",
+        "body": "Atlético entered the round with 31 points and a 26–10 goals record from 13 league matches. Elche had 11 points and a 15–21 record."
+      }
+    ],
+    "risks": [
+      "Atlético played in Europe in midweek and are away from home.",
+      "Elche won the previous meeting 3–2; historical head-to-head does not ensure a repeat but demonstrates upset risk.",
+      "Squad availability and starting lineups require confirmation. The three-match sample mixes competitions."
+    ],
+    "verdict": "The away-win hypothesis is a qualitative research forecast, not a validated positive expected-value selection.",
+    "sources": [
+      {
+        "label": "Atlético Madrid — official fixture preview",
+        "url": "https://en.atleticodemadrid.com/prepartidos/elche-cf-atletico-de-madrid-29-11-2026-23-28"
+      },
+      {
+        "label": "Statz — Atlético statistics",
+        "url": "https://statz.ai/team/atletico-madrid"
+      },
+      {
+        "label": "Statz — Elche statistics",
+        "url": "https://statz.ai/team/elche"
+      },
+      {
+        "label": "Sofascore — match preview",
+        "url": "https://www.sofascore.com/news/elche-vs-atletico-madrid-preview-can-elche-do-it-again"
+      },
+      {
+        "label": "Tapmad — league performance",
+        "url": "https://www.tapmad.com/blog/elche-vs-atletico-preview-la-liga-2026/9107-7-0"
+      }
+    ],
+    "editorial_note": "Experimental Team Watchlist forecast; three-match data snapshot from pre-match research. No calibrated MatchEdge probability, verified odds or expected value is claimed. Official starting lineups were not yet verified. The result will be logged separately."
   }
 }
